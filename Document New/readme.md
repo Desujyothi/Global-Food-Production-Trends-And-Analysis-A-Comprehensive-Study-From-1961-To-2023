@@ -1,1 +1,1 @@
-project document in pdf
+project document in pdf and doc formats
